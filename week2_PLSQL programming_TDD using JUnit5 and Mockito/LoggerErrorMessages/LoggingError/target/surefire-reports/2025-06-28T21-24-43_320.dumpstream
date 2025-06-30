@@ -1,0 +1,5 @@
+# Created at 2025-06-28T21:24:44.651
+Boot Manifest-JAR contains absolute paths in classpath 'D:\cognizant\LoggingError\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

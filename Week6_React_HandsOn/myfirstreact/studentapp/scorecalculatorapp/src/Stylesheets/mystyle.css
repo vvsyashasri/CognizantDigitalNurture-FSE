@@ -1,0 +1,40 @@
+.score-container {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 24px;
+  border: 2px solid #6e388e;
+  border-radius: 12px;
+  background: #fafafa;
+  box-shadow: 0 2px 8px rgba(76,175,80,0.15);
+}
+.center-text {
+  text-align: center;
+  color: #6e388e;
+}
+.input-field {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #bdbdbd;
+}
+.submit-btn {
+  background-color: #6e388e;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+}
+.submit-btn:hover {
+  background-color: #6e388e;
+}
+.result {
+  text-align: center;
+  margin-top: 20px;
+  color: #222;
+}
